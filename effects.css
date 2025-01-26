@@ -1,0 +1,32 @@
+div
+{
+	background-color:blue;
+	height:250px;
+	text-align:center;
+	color:white;
+}
+#grad1
+{
+	background-image:linear-gradient(red,yellow);
+}
+input
+{
+	background-color:black;
+	color:white;
+	float:right;
+}
+
+#c2
+{
+	background-color:orange;
+}
+
+#c3
+{
+	background-color:yellow;
+}
+
+#c4
+{
+	background-color:red;
+}
